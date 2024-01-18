@@ -12,6 +12,7 @@ Welcome to Deep Sewer Documentation
    :caption: Hardware
    
    hardware/info
+   hardware/test
 
 Indices and tables
 ==================
