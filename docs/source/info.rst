@@ -1,33 +1,19 @@
-Usage
-=====
+Information
+============
 
-.. _installation:
+Overview
+--------
+
+This section provides a high-level overview of the Deep Sewer project.
 
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+Instructions on how to install and set up the Deep Sewer system.
 
-.. code-block:: console
+Usage
+-----
 
-   (.venv) $ pip install lumache
+Guidelines and basic usage instructions for interacting with the Deep Sewer system.
 
-Creating recipes
-----------------
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+... (add more subsections as needed)
