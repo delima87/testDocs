@@ -11,7 +11,8 @@ Welcome to Deep Sewer Documentation
    :maxdepth: 1
    :caption: Hardware
    
-   hardware/test.md
+   hardware/info
+   hardware/infocopy
 
 Indices and tables
 ==================
