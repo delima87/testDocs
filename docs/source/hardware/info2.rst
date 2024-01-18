@@ -1,9 +1,9 @@
-Usage1
+CVPRas
 =====
 
 .. _installation:
 
-Installation
+Installations
 ------------
 
 To use Lumache, first install it using pip:
@@ -12,7 +12,7 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
-Creating recipes
+Creating recipess
 ----------------
 
 To retrieve a list of random ingredients,
