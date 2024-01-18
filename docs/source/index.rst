@@ -1,13 +1,30 @@
-.. Project Name Documentation
+Welcome to Deep Sewer Documentation
 ===========================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :caption: Information 
+   info
 
-   hardware
-   acquisition
-   processing
-   interface
+.. toctree:: 
+   :maxdepth: 1
+   :caption: Hardware
+   hardware/test
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Acquisition
+   acquisition/test
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Processing
+   processing/test
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Interface
+   interface/test
 
 Indices and tables
 ==================
