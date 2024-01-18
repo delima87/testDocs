@@ -11,7 +11,6 @@ Welcome to Deep Sewer Documentation
    :maxdepth: 1
    :caption: Hardware
    
-   hardware/info
    hardware/test
 
 Indices and tables
